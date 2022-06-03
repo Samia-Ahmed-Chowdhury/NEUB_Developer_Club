@@ -1,0 +1,58 @@
+
+*{
+  box-sizing:border-box;
+  margin: 0;
+}
+body{
+font-family: "Roboto","Rounded Mplus 1c Bold", sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+.wrapper{
+  width: 1152px;
+  margin: 0 auto;
+  padding: 0 120.5px;
+ 
+}
+.about{
+    margin-top:-112px;
+    margin-left: 50px;
+  }
+  .about .left{
+    margin-top:320px;
+  }
+  
+  .about .left h3{
+    margin-left: 90px;
+    color: #2161DB;
+    padding: 2px;
+    margin-left: 12px;
+  
+  }
+  .about .left h1{
+    font-family: Roboto;
+    font-size: 44px;
+    margin-left: -32px;
+  }
+  .about .left h1 .dff{
+   color: #3C89EB;
+   ; 
+  }
+  .about .left p{
+    margin-left: 20px;
+  }
+  .about .left p .l1{
+    margin-top: 50px;
+    padding:80px 0;
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 44px;
+  }
+  
+  .about .right img{
+   margin-left:600px;
+   width: 550px;
+   margin-top:-650px;
+   
+  } 

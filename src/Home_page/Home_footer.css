@@ -1,0 +1,54 @@
+
+*{
+  box-sizing:border-box;
+  margin: 0;
+}
+body{
+font-family: "Roboto","Rounded Mplus 1c Bold", sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+.wrapper{
+  width: 1152px;
+  margin: 0 auto;
+  padding: 0 120.5px;
+ 
+}
+.footer-line{
+    margin-top: 400px;
+    border: 1.2px solid #468DEB;
+    transform: rotate(0.25deg);
+  }
+  .footer{
+    margin-top: 50px;
+    margin-left:130px ;
+  
+  }
+  .footer .logo{
+    font-family: Rounded Mplus 1c Bold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 62px;
+  color: #000000;
+  }
+  
+  .footer .flg{
+    color: #AEB4BB;
+    font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  }
+  .footer .right{
+    margin-top: -80px;
+    margin-left: 500px;
+    font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 20px;
+  color: #83868D;
+  }

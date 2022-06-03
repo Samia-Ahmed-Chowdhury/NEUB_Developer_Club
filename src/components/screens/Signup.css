@@ -1,0 +1,127 @@
+*{
+  box-sizing:border-box;
+  margin: 0;
+}
+body{
+font-family: "Roboto","Rounded Mplus 1c Bold", sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+.wrapper{
+  width: 1152px;
+  margin: 0 auto;
+  padding: 0 120.5px;
+ 
+ 
+}
+
+
+/* signup */
+.sign-img{
+  margin-left:-10px;
+  margin-top:53px;
+  width:50px;
+    
+}
+.sign-form{
+  width:600px;
+  background-color:white;
+  margin-left:450px; 
+  margin-top: -650px;
+  height: 630px;
+}
+.sign-form h2{
+  text-align: center;
+ padding-top: 30px;
+}
+.sign-form-bg{
+  margin-left: 50px;
+margin-top: 30px;
+  width:500px;
+  background-color: white;
+  height: 530px;
+  padding-top:20px ;
+}
+
+
+
+.form{ 
+  width:600px;
+  background-color:white;
+  margin-left:220px; 
+  margin-top: -380px;
+  height: 500px;
+}
+.form h2{
+  text-align: center;
+ padding-top: 30px;
+}
+.form-bg{
+margin-left: 50px;
+margin-top: 30px;
+  width:500px;
+  background-color: white;
+  height: 350px;
+  padding-top:20px ;
+}
+
+.form-group{
+  padding:10px;
+}
+.form-group input{
+  width: 280px;
+  height: 45px;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 100px;
+  border-color:#58A3F2 ;
+  font-size: medium;
+
+
+
+}
+.form-group .control-label{
+ margin-top: 200px; 
+ text-align: center;
+ margin-left:200px;
+ font-size: medium;
+font-weight: bold;
+}
+.form-group input:hover {
+  border-color: red;
+}
+.login-link{
+  margin-left: 150px;
+  background-color: white;
+  background-position-x: 0.5px;
+
+}
+.login-link:hover{
+  background-color:#58A3F2;
+
+}
+.submit-btns{
+  margin-left: 190px;
+  margin-top: 20px;
+}
+
+.signup{
+  background-color: #FA6E5E;
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 17px;
+      width: 100px;
+      height: 50px;
+  padding: 10px;
+  
+      
+}
+.signup:hover{
+background-color:#58A3F2;
+}
+

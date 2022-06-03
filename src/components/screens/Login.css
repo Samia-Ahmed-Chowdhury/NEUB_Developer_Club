@@ -1,0 +1,77 @@
+*{
+  box-sizing:border-box;
+  margin: 0;
+}
+body{
+font-family: "Roboto","Rounded Mplus 1c Bold", sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+.wrapper{
+  width: 1152px;
+  margin: 0 auto;
+  padding: 0 120.5px;
+ 
+}
+
+
+
+
+.form{ 
+  width:60px;
+  background-color:white;
+  margin-left:420px; 
+
+  height: 500px;
+}
+.form h2{
+  text-align: center;
+ padding-top: 30px;
+}
+.form-bg{
+margin-left: 50px;
+margin-top: 30px;
+  width:500px;
+  background-color: red;
+  height: 350px;
+  padding-top:20px ;
+}
+
+.form-group{
+  padding:10px;
+}
+.form-group input{
+  width: 280px;
+  height: 45px;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 100px;
+  border-color:#58A3F2 ;
+  font-size: medium;
+
+
+
+}
+.form-group .control-label{
+ margin-top: 200px; 
+ text-align: center;
+ margin-left:200px;
+ font-size: medium;
+font-weight: bold;
+}
+.form-group input:hover {
+  border-color: red;
+}
+.login-link{
+  margin-left: 150px;
+}
+.login-link:hover{
+  color: red;
+}
+.submit-btns{
+  margin-left: 190px;
+  margin-top: 20px;
+}
+
+
